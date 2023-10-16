@@ -1,0 +1,25 @@
+{
+    "restaurant": [
+        {
+            "id": 1,
+            "name": "Pizza Hut",
+            "address": "Patna",
+            "rating": "4.1",
+            "email": "pizzahut@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Subway",
+            "address": "Patna",
+            "rating": "4.2",
+            "email": "subway@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Dorsia",
+            "address": "Bateland",
+            "rating": "5.0",
+            "email": "dorsia@gmail.com"
+        }
+    ]
+}
